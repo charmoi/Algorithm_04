@@ -63,6 +63,7 @@
 ### 4. Images and corresponding probablity that predicted right
 
 ![image](https://user-images.githubusercontent.com/77092257/172658508-7137c370-e3fb-47b9-89a6-28ac953aff28.png)
+![image](https://user-images.githubusercontent.com/77092257/172658829-8a2ee162-055e-4094-8710-f4f6a057f608.png)
 
 ### 5. Images and corresponding probablity that predicted wrong
 
