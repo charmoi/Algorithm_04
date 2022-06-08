@@ -50,6 +50,7 @@
 ### 1. Model
 
 ![image](https://user-images.githubusercontent.com/77092257/172656718-e4f18491-4df2-4d02-b985-0c95a4bf2c80.png)
+![image](https://user-images.githubusercontent.com/77092257/172659290-8c21f5e3-f554-43d4-a3e3-0e6ba72e4cd5.png)
 
 ### 2. Training with Training loss
 
@@ -62,7 +63,6 @@
 ### 4. Images and corresponding probablity that predicted right
 
 ![image](https://user-images.githubusercontent.com/77092257/172658508-7137c370-e3fb-47b9-89a6-28ac953aff28.png)
-![image](https://user-images.githubusercontent.com/77092257/172658829-8a2ee162-055e-4094-8710-f4f6a057f608.png)
 
 ### 5. Images and corresponding probablity that predicted wrong
 
