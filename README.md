@@ -1,7 +1,7 @@
 # Algorithm_04
 
 ## Model 1
-1. Model
+### 1. Model
 
 ![image](https://user-images.githubusercontent.com/77092257/172653801-4891d59d-eb0c-43d3-b7dd-d3f8584c5d05.png)
 ![image](https://user-images.githubusercontent.com/77092257/172653829-7309941a-3f16-4b72-898c-b859d0073deb.png)
