@@ -24,18 +24,42 @@
 
 
 ## Model 2
-1. Model
-2. Training with Training loss
-3. Test Accuracy
-4. Images and corresponding probablity that predicted right
-5. Images and corresponding probablity that predicted wrong
+### 1. Model
 
+![image](https://user-images.githubusercontent.com/77092257/172656438-e23bdc07-beb0-45e7-bc60-6bd31f08a8bb.png)
+![image](https://user-images.githubusercontent.com/77092257/172656464-97341794-0811-4cc2-b57f-c8660f78cf14.png)
+
+### 2. Training with Training loss
+
+![image](https://user-images.githubusercontent.com/77092257/172656300-ce2bc9a0-9fe0-416a-b6c1-c48643bafaeb.png)
+
+### 3. Test Accuracy
+
+![image](https://user-images.githubusercontent.com/77092257/172656519-49948a9e-4b4c-45c6-a1bb-8ccfaa3e81ce.png)
+
+### 4. Images and corresponding probablity that predicted right
+
+![image](https://user-images.githubusercontent.com/77092257/172656551-3cbdf498-85cc-4b54-b706-98c162a948cf.png)
+
+### 5. Images and corresponding probablity that predicted wrong
+
+![image](https://user-images.githubusercontent.com/77092257/172656596-a95c4612-2d19-4fb7-a6f2-66157f7c68ae.png)
 
 
 ## Model 3
-1. Model
-2. Training with Training loss
-3. Test Accuracy
-4. Images and corresponding probablity that predicted right
-5. Images and corresponding probablity that predicted wrong
+### 1. Model
+
+![image](https://user-images.githubusercontent.com/77092257/172656718-e4f18491-4df2-4d02-b985-0c95a4bf2c80.png)
+![image](https://user-images.githubusercontent.com/77092257/172656733-937a17bd-276f-4f57-a00c-604ea83c7738.png)
+
+### 2. Training with Training loss
+
+
+### 3. Test Accuracy
+
+
+### 4. Images and corresponding probablity that predicted right
+
+
+### 5. Images and corresponding probablity that predicted wrong
 
