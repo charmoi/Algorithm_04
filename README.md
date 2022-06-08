@@ -50,7 +50,6 @@
 ### 1. Model
 
 ![image](https://user-images.githubusercontent.com/77092257/172656718-e4f18491-4df2-4d02-b985-0c95a4bf2c80.png)
-![image](https://user-images.githubusercontent.com/77092257/172656733-937a17bd-276f-4f57-a00c-604ea83c7738.png)
 
 ### 2. Training with Training loss
 
