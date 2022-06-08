@@ -54,12 +54,16 @@
 
 ### 2. Training with Training loss
 
+![image](https://user-images.githubusercontent.com/77092257/172657908-7aa1a9e7-c101-43fc-84e0-eb49c3b4327f.png)
 
 ### 3. Test Accuracy
 
+![image](https://user-images.githubusercontent.com/77092257/172657990-15926abe-dee9-423d-bb22-9295a6a1ae63.png)
 
 ### 4. Images and corresponding probablity that predicted right
 
+![image](https://user-images.githubusercontent.com/77092257/172658508-7137c370-e3fb-47b9-89a6-28ac953aff28.png)
 
 ### 5. Images and corresponding probablity that predicted wrong
 
+![image](https://user-images.githubusercontent.com/77092257/172658554-ad6381a4-24a1-4887-bbf7-f71fc1e9b524.png)
